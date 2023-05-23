@@ -1,3 +1,3 @@
-let oruga = orugagorda
+let oruga = "orugagorda"
 
 console.log(oruga)
