@@ -1,0 +1,17 @@
+[
+    {
+        "Marca": "Samsung",
+        "Modelo": "S22",
+        "Sistema": "Android"
+    },
+    {
+        "Marca": "IPhone",
+        "Modelo": "6 Plus",
+        "Sistema": "Apple"
+    },
+    {
+        "Marca": "Motorola",
+        "Modelo": "G22",
+        "Sistema": "Android"
+    }
+]

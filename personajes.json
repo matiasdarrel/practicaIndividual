@@ -1,0 +1,17 @@
+[
+    {
+        "Nombre" : "Stitch",
+        "Tipo" : "Protagonista",
+        "Pelicula" : "Lilo y Stitch"
+    },
+    {
+        "Nombre" : "Darth Vader", 
+        "Tipo" : "Antagonista",
+        "Pelicula" : "Star Wars"
+    },
+    {
+        "Nombre": "Jack Sparrow", 
+        "Tipo": "Protagonista",
+        "Pelicula" : "El pirata del Caribe"
+    }
+]

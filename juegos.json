@@ -1,0 +1,17 @@
+[
+    {
+        "nombre" : "FlatOut2",
+        "genero" : "Carrera",
+        "añoDeLanzamiento" : "1 de Agosto de 2006"
+    },
+    {
+        "nombre": "Age Of Mithology",
+        "genero": "Estrategia",
+        "añoDeLanzamiento": "1 de Agosto de 2006"
+    },
+    {
+        "nombre": "Unreal Tournament 2004",
+        "genero": "FPS",
+        "añoDeLanzamiento": "1 de Abril de 2004"
+    }
+]
